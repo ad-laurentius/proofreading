@@ -4,6 +4,8 @@ This repository contains my work proofreading classic works written by St Franci
 
 Please feel free to report errors using an Issue or collaborate using Pull requests.
 
+As for methodology, I intend to follow the standard Distributed Proofreaders guidelines. Please report deviations from that standard as an Issue.
+
 Origin of the works:
 
 - Introduction to a Devout Life:
