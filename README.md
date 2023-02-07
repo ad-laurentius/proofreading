@@ -21,4 +21,4 @@ OCR'd text: https://archive.org/stream/catholiccontrove00sain/catholiccontrove00
 
 Proofread output: *The_Catholic_Controversy.txt*
 
-Status: In progress.
+Status: In progress (round 1).
