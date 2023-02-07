@@ -51,6 +51,7 @@ OCR'd text: https://archive.org/stream/MaximsAndCounselsOfStFrancisDeSales/Maxim
 
 Proofread output: Maxims_And_Counsels.txt
 
+Notes: CC non-commercial license.
 Status:
 
 - [x] Content Provision. (Obtained from archive.org).
