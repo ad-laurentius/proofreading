@@ -6,12 +6,14 @@ Please feel free to report errors using an Issue or collaborate using Pull reque
 
 As for methodology, I intend to follow the standard Distributed Proofreaders guidelines. Please report deviations from that standard as an Issue.
 
-Origin of the works:
+# List of works:
 
-- Introduction to a Devout Life:
+- The Catholic Controversy:
 
-Source scan: https://archive.org/details/introductiontode00franuoft/page/n5/mode/2up
+Source scan: https://archive.org/details/catholiccontrove00sain/page/n5/mode/2up
 
-OCR'd text: https://archive.org/stream/introductiontode00franuoft/introductiontode00franuoft_djvu.txt
+OCR'd text: https://archive.org/stream/catholiccontrove00sain/catholiccontrove00sain_djvu.txt
 
-Proofread output: Introduction_to_a_devout_life.txt
+Proofread output: The_Catholic_Controversy.txt
+
+Status: In progress.
