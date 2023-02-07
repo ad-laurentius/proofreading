@@ -21,4 +21,15 @@ OCR'd text: https://archive.org/stream/catholiccontrove00sain/catholiccontrove00
 
 Proofread output: *The_Catholic_Controversy.txt*
 
-Status: In progress (round 1).
+Status:
+
+- [x] Content Provision. (Obtained from archive.org).
+- [x] OCR. (Performed by archive.org)
+- [In progress] P1 - Proofreading round 1 (check OCR output, match text to image).
+- [ ] P2 - Proofreading round 2 (check P1 output, examine image and text closely, spell check).
+- [ ] P3 - Proofreading round 3 (check P2 output, examine image and text closely, spell check).
+- [ ] Formatting round 1 (check/add formatting markup).
+- [ ] Formatting round 2 (check F1 output, examine image and text closely for formatting).
+- [ ] Create ebook according to the standards of Standard Ebooks.
+- [ ] Final check of ebook
+ 
