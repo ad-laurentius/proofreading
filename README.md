@@ -8,8 +8,8 @@ As for methodology, I intend to follow the standard Distributed Proofreaders gui
 
 # Licensing
 
-All is free and unencumbered work released into the public domain using the Unlicense. I make no copyright claims whatsoever on any work made by other people. 
-Scans produced by Google seem to be emcumbered with a "non-commercial" clause that unfortunately I am not allowed to remove.
+All the work is released into the public domain using the Unlicense. I make no copyright claims whatsoever on any work made by other people. 
+Scans produced by Google seem to be encumbered with a "non-commercial" clause that unfortunately I am not allowed to remove.
 
 # List of works:
 
