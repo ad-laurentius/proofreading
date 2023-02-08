@@ -64,4 +64,6 @@ Status:
 - [ ] Formatting round 2 (check F1 output, examine image and text closely for formatting).
 - [ ] Create ebook according to the standards of Standard Ebooks.
 - [ ] Final check of ebook
+
+Notes and corrections:
  
