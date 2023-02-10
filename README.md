@@ -1,14 +1,28 @@
 # proofreading
 
+# What is this?
 This repository contains my work proofreading classic works of Catholicism (particularly those written by St Francis de Sales).
 
+# How can I help?
 Please feel free to report errors using an *Issue* or collaborate using a *Pull request*.
 
-As for methodology, I intend to follow the standard Distributed Proofreaders guidelines. Please report deviations from that standard as an *Issue*.
+# Methodology
+As for methodology, I intend to follow the standard Distributed Proofreaders guidelines as much as I can, even though the chances of my work being transferred to Distributed Proofreaders is very small. Because I am likely to do much of the work on my own, I will only follow certain rules in so far as they are convenient to my own usage.
+
+# What will be end product be like?
+I won't correct any apparent misspellings but will correct printing/formatting errors if they are very evident. No parts of the text will be changed to avoid rendering the Imprimatur void.
+
+I intend to produce for every work the following files:
+
+- workname_plaintext: This will contain the works in plaintext (without any markup).
+- workname.md: This will contain the work formatted using markdown.
+- workname.epub: This will contain the work formatted using markdown and converted to epub.
+
+Please feel free to send me a copy of any reformatted/re-typeset so that I can add it here, but don't feel you have to.
 
 # Licensing
 
-All the work I perform is released into the public domain using the Unlicense. I make no copyright claims whatsoever on any work made by other people. 
+All the work I perform is released into the public domain using the Unlicense. I make no copyright claims whatsoever on my work, or any work made by other people.
 Scans produced by Google seem to be encumbered with a "non-commercial" clause that unfortunately I am not allowed to remove.
 
 # List of works:
