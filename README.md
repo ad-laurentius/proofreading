@@ -48,8 +48,8 @@ Status:
 - [ ] P3 - Proofreading round 3 (check P2 output, examine image and text closely, spell check).
 - [ ] Formatting round 1 (check/add formatting markup).
 - [ ] Formatting round 2 (check F1 output, examine image and text closely for formatting).
-- [ ] Create ebook according to the standards of Standard Ebooks.
-- [ ] Final check of ebook
+- [ ] Create ebook. 
+- [ ] Final check of ebook.
 
  
 
@@ -76,5 +76,5 @@ Status:
 - [ ] P3 - Proofreading round 3 (check P2 output, examine image and text closely, spell check).
 - [ ] Formatting round 1 (check/add formatting markup).
 - [ ] Formatting round 2 (check F1 output, examine image and text closely for formatting).
-- [ ] Create ebook according to the standards of Standard Ebooks.
-- [ ] Final check of ebook
+- [ ] Create ebook. 
+- [ ] Final check of ebook.
