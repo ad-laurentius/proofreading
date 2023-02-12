@@ -29,33 +29,7 @@ Scans produced by Google seem to be encumbered with a "non-commercial" clause th
 
 # List of works:
 
-## The Catholic Controversy:
-
-Publisher: Burns and Oates
-
-Publication date: 1909 
-
-Source scan: https://archive.org/details/catholiccontrove00sain/page/n5/mode/2up
-
-OCR'd text: https://archive.org/stream/catholiccontrove00sain/catholiccontrove00sain_djvu.txt
-
-Proofread output: The_Catholic_Controversy.txt
-
-Status:
-
-- [x] Content Provision. (Obtained from archive.org).
-- [x] OCR. (Performed by archive.org)
-- [ ] P1 - Proofreading round 1 (check OCR output, match text to image).
-- [ ] Proofreading round 2 (check P1 output, examine image and text closely, spell check).
-- [ ] Proofreading round 3 (check P2 output, examine image and text closely, spell check).
-- [ ] Formatting round 1 (check/add markdown).
-- [ ] Formatting round 2 (check F1 output, examine image and text closely for formatting).
-- [ ] Create ebook. 
-- [ ] Final check of ebook.
-
- 
-
-## Maxims and counsels of St. Francis de Sales for every day in the year:
+## Maxims and counsels of St. Francis de Sales for every day in the year
 
 Publisher: M. H. Gill & Son
 
@@ -74,6 +48,57 @@ Status:
 - [x] Content Provision. (Obtained from archive.org).
 - [x] OCR. (Performed by archive.org)
 - [x] Proofreading round 1 (check OCR output, match text to image).
+- [ ] Proofreading round 2 (check P1 output, examine image and text closely, spell check).
+- [ ] Proofreading round 3 (check P2 output, examine image and text closely, spell check).
+- [ ] Formatting round 1 (check/add markdown).
+- [ ] Formatting round 2 (check F1 output, examine image and text closely for formatting).
+- [ ] Create ebook. 
+- [ ] Final check of ebook.
+
+## Meditations for retreats 
+
+Publisher: Benzinger Brothers
+
+Publication date: 1900.
+
+Source scan: https://archive.org/details/MeditationsForRetreats/page/n1/mode/2up
+
+OCR'd text: https://archive.org/stream/MeditationsForRetreats/MeditationsForRetreats_djvu.txt
+
+Proofread output: Meditations_for_retreats.txt
+
+Notes: CC non-commercial license.
+
+Status:
+
+- [x] Content Provision. (Obtained from archive.org).
+- [x] OCR. (Performed by archive.org)
+- [] Proofreading round 1 (check OCR output, match text to image).
+- [ ] Proofreading round 2 (check P1 output, examine image and text closely, spell check).
+- [ ] Proofreading round 3 (check P2 output, examine image and text closely, spell check).
+- [ ] Formatting round 1 (check/add markdown).
+- [ ] Formatting round 2 (check F1 output, examine image and text closely for formatting).
+- [ ] Create ebook. 
+- [ ] Final check of ebook.
+
+
+## The Catholic Controversy
+
+Publisher: Burns and Oates
+
+Publication date: 1909 
+
+Source scan: https://archive.org/details/catholiccontrove00sain/page/n5/mode/2up
+
+OCR'd text: https://archive.org/stream/catholiccontrove00sain/catholiccontrove00sain_djvu.txt
+
+Proofread output: The_Catholic_Controversy.txt
+
+Status:
+
+- [x] Content Provision. (Obtained from archive.org).
+- [x] OCR. (Performed by archive.org)
+- [ ] P1 - Proofreading round 1 (check OCR output, match text to image).
 - [ ] Proofreading round 2 (check P1 output, examine image and text closely, spell check).
 - [ ] Proofreading round 3 (check P2 output, examine image and text closely, spell check).
 - [ ] Formatting round 1 (check/add markdown).
