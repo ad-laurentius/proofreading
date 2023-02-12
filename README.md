@@ -9,6 +9,8 @@ Please feel free to report errors using an *Issue* or collaborate using a *Pull 
 # Methodology
 As for methodology, I intend to follow the standard Distributed Proofreaders guidelines as much as I can, even though the chances of my work being transferred to Distributed Proofreaders is very small. Because I am likely to do much of the work on my own, I will only follow certain rules in so far as they are convenient to my own usage.
 
+TL;DR. I do not fix spelling, capitalisation, or grammar inconsistencies, but may fix formatting and obvious printing errors.
+
 # What will be end product be like?
 I won't correct any apparent misspellings but will correct printing/formatting errors if they are very evident. No parts of the text will be changed to avoid rendering the Imprimatur void.
 
@@ -44,9 +46,9 @@ Status:
 - [x] Content Provision. (Obtained from archive.org).
 - [x] OCR. (Performed by archive.org)
 - [ ] P1 - Proofreading round 1 (check OCR output, match text to image).
-- [ ] P2 - Proofreading round 2 (check P1 output, examine image and text closely, spell check).
-- [ ] P3 - Proofreading round 3 (check P2 output, examine image and text closely, spell check).
-- [ ] Formatting round 1 (check/add formatting markup).
+- [ ] Proofreading round 2 (check P1 output, examine image and text closely, spell check).
+- [ ] Proofreading round 3 (check P2 output, examine image and text closely, spell check).
+- [ ] Formatting round 1 (check/add markdown).
 - [ ] Formatting round 2 (check F1 output, examine image and text closely for formatting).
 - [ ] Create ebook. 
 - [ ] Final check of ebook.
@@ -71,10 +73,10 @@ Status:
 
 - [x] Content Provision. (Obtained from archive.org).
 - [x] OCR. (Performed by archive.org)
-- [x] P1 - Proofreading round 1 (check OCR output, match text to image).
-- [ ] P2 - Proofreading round 2 (check P1 output, examine image and text closely, spell check).
-- [ ] P3 - Proofreading round 3 (check P2 output, examine image and text closely, spell check).
-- [ ] Formatting round 1 (check/add formatting markup).
+- [x] Proofreading round 1 (check OCR output, match text to image).
+- [ ] Proofreading round 2 (check P1 output, examine image and text closely, spell check).
+- [ ] Proofreading round 3 (check P2 output, examine image and text closely, spell check).
+- [ ] Formatting round 1 (check/add markdown).
 - [ ] Formatting round 2 (check F1 output, examine image and text closely for formatting).
 - [ ] Create ebook. 
 - [ ] Final check of ebook.
