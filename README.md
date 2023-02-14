@@ -7,7 +7,7 @@ This repository contains my work proofreading classic works of Catholicism (part
 Please feel free to report errors using an *Issue* or collaborate using a *Pull request*.
 
 # Methodology
-As for methodology, I intend to follow the standard Distributed Proofreaders guidelines as much as I can, even though the chances of my work being transferred to Distributed Proofreaders is very small. Because I am likely to do much of the work on my own, I will only follow certain rules in so far as they are convenient to my own usage.
+As for methodology, I intend to follow the standard Distributed Proofreaders guidelines as much as I can.
 
 TL;DR. I do not fix spelling, capitalisation, or grammar inconsistencies, but may fix formatting when it does not alter the meaning, as well as obvious printing errors.
 
@@ -16,7 +16,7 @@ TL;DR. I do not fix spelling, capitalisation, or grammar inconsistencies, but ma
 Quoting the Project Gutenberg: "Work performed on a public domain item, known as sweat of the brow, does not result in a new copyright."
 https://www.gutenberg.org/help/no_sweat_copyright.html
 
-But just in case,  all the work I perform in this repo is released into the public domain using the Unlicense. Even if I could, I make no copyright claims whatsoever on my work, or any work made by other people.
+But just in case, all the work I perform in this repo is released into the public domain using the Unlicense. Even if I could, I make no copyright claims whatsoever on my work, or any work made by other people.
 
 # List of works:
 
