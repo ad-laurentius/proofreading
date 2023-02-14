@@ -9,23 +9,14 @@ Please feel free to report errors using an *Issue* or collaborate using a *Pull 
 # Methodology
 As for methodology, I intend to follow the standard Distributed Proofreaders guidelines as much as I can, even though the chances of my work being transferred to Distributed Proofreaders is very small. Because I am likely to do much of the work on my own, I will only follow certain rules in so far as they are convenient to my own usage.
 
-TL;DR. I do not fix spelling, capitalisation, or grammar inconsistencies, but may fix formatting and obvious printing errors.
-
-# What will be end product be like?
-I won't correct any apparent misspellings but will correct printing/formatting errors if they are very evident. No parts of the text will be changed to avoid rendering the Imprimatur void.
-
-I intend to produce for every work the following files:
-
-- workname_plaintext: This will contain the works in plaintext (without any markup).
-- workname.md: This will contain the work formatted using markdown.
-- workname.epub: This will contain the work formatted using markdown and converted to epub.
-
-Please feel free to send me a copy of any reformatted/re-typeset so that I can add it here, but don't feel you have to.
+TL;DR. I do not fix spelling, capitalisation, or grammar inconsistencies, but may fix formatting when it does not alter the meaning, as well as obvious printing errors.
 
 # Licensing
 
-All the work I perform is released into the public domain using the Unlicense. I make no copyright claims whatsoever on my work, or any work made by other people.
-Scans produced by Google seem to be encumbered with a "non-commercial" clause that unfortunately I am not allowed to remove.
+Quoting the Project Gutenberg: "Work performed on a public domain item, known as sweat of the brow, does not result in a new copyright."
+https://www.gutenberg.org/help/no_sweat_copyright.html
+
+But just in case,  all the work I perform in this repo is released into the public domain using the Unlicense. Even if I could, I make no copyright claims whatsoever on my work, or any work made by other people.
 
 # List of works:
 
@@ -67,13 +58,13 @@ OCR'd text: https://archive.org/stream/MeditationsForRetreats/MeditationsForRetr
 
 Proofread output: Meditations_for_retreats.txt
 
-Notes: CC non-commercial license.
+Notes: CC non-commercial license?.
 
 Status:
 
 - [x] Content Provision. (Obtained from archive.org).
 - [x] OCR. (Performed by archive.org)
-- [] Proofreading round 1 (check OCR output, match text to image).
+- [ ] Proofreading round 1 (check OCR output, match text to image).
 - [ ] Proofreading round 2 (check P1 output, examine image and text closely, spell check).
 - [ ] Proofreading round 3 (check P2 output, examine image and text closely, spell check).
 - [ ] Formatting round 1 (check/add markdown).
