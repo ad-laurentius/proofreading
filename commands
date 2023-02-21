@@ -1,0 +1,22 @@
+----COMMANDS----
+
+To show list of characters used in text (good for finding weird characters)
+awk 'BEGIN{FS=""} {for(i=1;i<=NF;i++){chars[$(i)]=$(i);}} END{for(c in chars){print c;} }'
+
+To trim whitespace while preserving empty lines
+:%s/\s\+$//e
+
+spellcheck: aspell check --mode=html file.html
+
+
+
+----WEB TOOLS----
+To check HTML: https://www.pgdp.net/ppwb/pphtml.php
+               https://validator.w3.org/
+               
+To check CSS: https://jigsaw.w3.org/css-validator/ 
+
+To check text: https://www.pgdp.net/ppwb/pptext.php
+
+Last check before submission to Gutenberg: Project Gutenberg Online Ebookmaker > https://ebookmaker.pglaf.org/
+ 
