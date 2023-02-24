@@ -8,7 +8,7 @@ To trim whitespace while preserving empty lines
 
 spellcheck: aspell check --mode=html file.html
 
-
+prettify html: npx prettier --write .
 
 ----WEB TOOLS----
 To check HTML: https://www.pgdp.net/ppwb/pphtml.php
