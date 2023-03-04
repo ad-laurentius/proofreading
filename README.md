@@ -39,9 +39,9 @@ Status:
 - [x] Content Provision. (Obtained from archive.org).
 - [x] OCR. (Performed by archive.org)
 - [x] Proofreading round 1 (check OCR output, match text to image).
-- [ ] Proofreading round 2 (check P1 output, examine image and text closely, spell check).
+- [x] Proofreading round 2 (check P1 output, examine image and text closely, spell check).
 - [ ] Proofreading round 3 (check P2 output, examine image and text closely, spell check).
-- [ ] Formatting round 1 (check/add markdown).
+- [x] Formatting round 1 (check/add markdown).
 - [ ] Formatting round 2 (check F1 output, examine image and text closely for formatting).
 - [ ] Create ebook. 
 - [ ] Final check of ebook.
