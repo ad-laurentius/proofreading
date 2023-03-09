@@ -1,50 +1,26 @@
-Google 
+The Project Gutenberg eBook of Meditations for Retreats.  
+Taken from the writings of St. Francis de Sales, arranged by St. Jane Frances Fremiot de Chantal.
+
+This eBook is for the use of anyone anywhere in the United States and     
+most other parts of the world at no cost and with almost no restrictions     
+whatsoever. You may copy it, give it away or re-use it under the terms     
+of the Project Gutenberg License included with this eBook or online at     
+www.gutenberg.org. If you are not located in the United States, you will     
+have to check the laws of the country where you are located before using     
+this eBook.     
+Note: Images of the original pages, digitised by Google, are available     
+through Internet Archive. See https://archive.org/details/MeditationsForRetreats
+
+Title: Meditations for Retreats.
+Author: St. Jane Frances Fremiot de Chantal
+Release Date: [eBook #000000]     
+Language: English     
+Character set encoding: UTF-8     
+Produced by:     
+*** START OF THE PROJECT GUTENBERG EBOOK MEDITATIONS FOR RETREATS, ARRANGED BY ST. JANE FRANCES FREMIOT DE CHANTAL ***
 
 
-This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project 
-to make the world's books discoverable online. 
-
-It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject 
-to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books 
-are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover. 
-
-Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book's long journey from the 
-publisher to a library and finally to you. 
-
-Usage guidelines 
-
-Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the 
-public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to 
-prevent abuse by commercial parties, including placing technical restrictions on automated querying. 
-
-We also ask that you: 
-
-+ Make non- commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for 
-personal, non-commercial purposes. 
-
-+ Refrain from automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine 
-translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the 
-use of public domain materials for these purposes and may be able to help. 
-
-+ Maintain attribution The Google "watermark" you see on each file is essential for informing people about this project and helping them find 
-additional materials through Google Book Search. Please do not remove it. 
-
-+ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just 
-because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other 
-countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of 
-any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner 
-anywhere in the world. Copyright infringement liability can be quite severe. 
-
-About Google Book Search 
-
-
-
-Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers 
-discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web 
-
-
-MEDITATIONS FOR RETREATS. 
-
+MEDITATIONS FOR RETREATS.
 
 
 TAKEN FROM THE WRITINGS OF 
@@ -108,9 +84,6 @@ I think that, after the first and second parts
 of Philothea, you will find nothing more 
 solid or practical. If you read and reflect 
 upon them attentively, they will enlighten 
-
-
-
 your understanding and inflame your 
 hearts. The Meditations on Silence, on 
 Modesty, and on several other religious virtues
@@ -152,11 +125,8 @@ and solemnities to her children, that they
 may renew their desire and resolution of 
 doing better. The ancient Religious chose 
 for this end the day of their profession and 
-
-
-
 entrance into religion. But as the Daughters
- of the Visitation should not be attached 
+of the Visitation should not be attached 
 even to special anniversaries, they have 
 most appropriately selected the festival of 
 the Presentation to make the renewal of 
@@ -176,9 +146,6 @@ its strings in order to tune them to a certain
 pitch and render them harmonious, so 
 every year, in our retreats, we should test 
 the affections of our soul as to whether they 
-
-
-
 are in accord to intone the canticle of the 
 glory of God and of our own perfection. 
 For this end we make our annual confession,
@@ -201,9 +168,6 @@ God who, speaking of the profit we should
 draw from solitude, says: "Great talkers 
 ordinarily leave their retreat lovers of 
 silence and retirement; the slothful and lax 
-
-
-
 become fervent, diligent, and prompt to 
 their duty; they who thought only of their 
 own ease are henceforth enemies of corrupt 
@@ -225,8 +189,6 @@ live but for God; in short, to converse well
 with your guardian angel and the saints, 
 by often visiting and remembering them. 
 
-
-
 May God bestow upon you this grace! 
 Amen. 
 
@@ -240,9 +202,6 @@ God be praised!
 
 
 Contents 
-
-
-
 
 Mother de Chantal to the Sisters of the Visitation. 3 
 
@@ -277,8 +236,6 @@ Misery and Weakness. 68
 XIII. Meditation on the Submission that Our 
 Saviour practised in His Divine In- 
 fancy. 72 
-
-
 
 XIV. Meditation on the Incomparable Grace 
 that we possess in being Daughters 
@@ -4142,8 +4099,7 @@ EXAMEN OF THE STATE OF THE SOUL TOWARD
 OUR NEIGHBOR. 
 
 Do you love every one cordially for the 
-love of God, as well in particular as in gen- 
-eral? 
+love of God, as well in particular as in general? 
 
 If you love your neighbor or the Sisters 
 who are disagreeable as much as those 
@@ -4155,27 +4111,19 @@ heart in their regard, whether you do them
 no harm, whether you pray as fervently 
 for them as for those that please you. Do 
 you fail in support toward your neighbor, 
-either with regard to her corporal or spirit- 
-ual infirmities? Do you judge rashly of her 
+either with regard to her corporal or spiritual 
+infirmities? Do you judge rashly of her 
 actions, particularly of the actions of her 
 whom you do not love? 
 
 Are you addicted to suspicions on the 
-
-
-
-
-198 EXAMEN OF CONSCIENCE. 
-
-
-
 slightest provocation? Do you criticise 
-your neighbor's intentions, her reasons, ac- 
-cording to your own fancy, and to her 
+your neighbor's intentions, her reasons, according 
+to your own fancy, and to her 
 disadvantage, sometimes through passion, 
-again through vanity, pretending to a dis- 
-cernment of character and natural inclina- 
-tions, etc.? Do you boast of the judgment 
+again through vanity, pretending to a discernment 
+of character and natural inclinations, 
+etc.? Do you boast of the judgment 
 you have formed, and sometimes assert it 
 as true, from the experience you have had 
 yourself of similar faults? 
@@ -4190,22 +4138,14 @@ some slight received from her?
 Have you experienced a feeling of joy, 
 when those from whom you have received 
 some contradiction have been mortified? 
-That is a spirit of revenge. Have you re- 
-peated some trifling anecdote to the Sisters, 
-
-
-
-
-EXAMEit OF CONbClEKCE. 19& 
-
-
-
+That is a spirit of revenge. Have you repeated 
+some trifling anecdote to the Sisters, 
 that they may know what they who have 
 displeased you have done? Examine 
 whether you have not directly told them 
 of it from the same motive, whether you 
-have not exaggerated the fault, or misin- 
-terpreted it to your own advantage. That 
+have not exaggerated the fault, or misinterpreted 
+it to your own advantage. That 
 would be a grievous fault against charity. 
 
 Have you despised your Sisters in 
@@ -4213,8 +4153,8 @@ thought or in deed on account of their
 mind, their manner, their countenance, 
 throwing out little hints with regard to 
 their origin, that they are beneath you? 
-That would be a serious fault, insupport- 
-able vanity. If you yourself are of low 
+That would be a serious fault, insupportable 
+vanity. If you yourself are of low 
 extraction, have you in your heart or in 
 your actions preferred yourself to others? 
 Have you made use of disagreeable, carping, 
@@ -4222,22 +4162,14 @@ acrimonious words, which might offend and
 displease them, and this even to seculars, 
 contesting and replying with impatience, 
 arrogantly maintaining your own opinion, 
-
-
-
-
-200 EXAMEN OF CONSCIENCE. 
-
-
-
 even in small matters? That would be a 
 great and very disedifying fault 
 
-Have you disputed imperiously, despis- 
-ing the judgment and advice of those with 
-whom you spoke? Have you taken pleas-* 
-ure in acting in this manner, being deter- 
-mined to quarrel or to give offence? Have 
+Have you disputed imperiously, despising 
+the judgment and advice of those with 
+whom you spoke? Have you taken pleasure 
+in acting in this manner, being determined 
+to quarrel or to give offence? Have 
 you long entertained such a thought? That 
 is all very bad. 
 
@@ -4247,26 +4179,18 @@ you see esteemed commit faults, and when
 these faults are noticed? Do you find it 
 difficult to allow them to be excused or 
 consoled in anything? Examine your heart 
-thoroughly on this subject, and acknowl- 
-edge your transgressions as frankly and 
+thoroughly on this subject, and acknowledge 
+your transgressions as frankly and 
 simply as possible. If there is anything 
-that worries you, — doubt, temptation or 
-difficulty — ask to be enlightened thereon. 
+that worries you,--doubt, temptation or 
+difficulty--ask to be enlightened thereon. 
 
 This examen contains special direction, 
-
-
-
-
-EXAMEN OF CONSCIENCE. 201 
-
-
-
 and gives not only a method for confession, 
 but, moreover, one for the practice of the 
 virtues. It is very useful once a year to 
-see thoroughly the state of the soul, al- 
-though one is not obliged to accuse herself 
+see thoroughly the state of the soul, although 
+one is not obliged to accuse herself 
 so minutely of all these matters unless she 
 wishes to do so. A traveller should discover 
 the bad road to avoid it, and the 
@@ -4275,1324 +4199,18 @@ its snares throughout the whole course of
 the spiritual life, so that it is impossible to 
 escape it, unless, as says the glorious St. 
 Anthony, by passing under it, we 
-humble ourselves profoundly, exam- 
-ine ourselves seriously, accuse ourselves 
-sincerely, and, in short, work out our sal- 
-vation with a holy trembling, a chaste 
+humble ourselves profoundly, examine 
+ourselves seriously, accuse ourselves 
+sincerely, and, in short, work out our salvation 
+with a holy trembling, a chaste 
 and filial fear, which will make us walk 
-in simplicity of heart, in holiness, in jus- 
-tice, and in truth before God. May the 
-divine goodness grant us the grace to ac- 
-
-
-
-
-202 EXAMEN OF CONSCIENCE. 
-
-complish this undertaking, through the in- 
-tercession of His most pure Mother, His 
+in simplicity of heart, in holiness, in justice, 
+and in truth before God. May the 
+divine goodness grant us the grace to accomplish 
+this undertaking, through the intercession 
+of His most pure Mother, His 
 holy foster-father, St. Joseph, and of the 
 holy Founder, St. Francis de Sales. 
 
 
-
-PRINTED BY BBNZIGER BROTHERS, NEW YORK. 
-
-
-
-
-STANDARD CATHOLIC BOOKS 
-
-
-
-PUBLISHED BY 
-
-BENZIGER BROTHERS, 
-
-n: NEW YORK: Chicago: 
-
-343 Main St. 36 and 38 Barclay St. 211-213 Madison St 
-
-
-
-Abandonment; or. Absolute Surrender of Self to Divine 
-Providence. By Rev. J. P. Caussade, S.J. 3amo, net y o 40 
-Altar Boy's Manual, Little. Illustrated. 3 2ino, Jo 25 
-American author Series of Catholic Juveniles. x6mo, cloth. 
-The Blissylvania Post-Office. By M. A. Taggart. x6mo, o 50 
-Three Girls and Especially One. By M. A. Taggart. 16010,050 
-By Branscome River. By M. A. Taggart. i6mo, o 50 
-
-The Madcap Set at St. Anne's. By M. J. Brunowe. z6mo, o 50 
-Tom's Luck-Pot. By Mary T. waggaman. x6mo, o 50 
-An Heir of Dreams. By S. M. O'Malley. x6mo, o 50 
-
-A Summer at Woodville. By Anna T. Sadlier. i6mo, o 50 
-Analysis of the Gospels. Lambert, iamo, net, x 25 
-
-Art of Profiting by Our Faults, according to St. Francis 
-de Sales. By Rev. J. TISSOT. 32mo, net, o 40 
-
-Aser the Shepherd. By Marion Ames Taggart. x6mo, net, o 35 
-Bezaleel. By Marion Ames Taggart. x6mo, net, o 35 
-
-Bible, The Holy. x2mo, cloth, o 80 
-
-Birthday Souvenir, or Diary. With a Subject of Meditation 
-for Every Day. By Mrs. A. E. Buchanan. 32010, o 50 
-
-Blessed Ones of x888. Illustrated. x6mo, o 50 
-
-Blossoms of the Cross. Dedicated to My Companions in 
-Suffering for their Pious Entertainment. By Emmy Giehrl. 
-12H0, cloth, x 25 
-
-Bone Rules; or, Skeleton of English Grammar. By Rev. J. B. 
-
-Tabb. x6mo, o 50 
-
-Boys' and Girls' Mission Book. By the Redemptorist 
-Fathers. 48mo, %o 35 
-
-Breve Compendium Theologlc Dogmatics et Mora lis una 
-cum aliquibus Notionibus Theologies Canonicae Liturgies, 
-Pastoralis et Mysticas, ac Philosophies Christianas. Auctore 
-P. J. Berthier, M.S. Quarta editio, aucta et emendata. 
-8vo, cloth, I net, 2 50 
-
-BUGG, Lelia Hardin. Correct Thing for Catholics. i6mo, o 75 
-
-A Lady. Manners and Social Usages. x6mo, o 75 
-
-■ Prodigal's Daughter, The, and Other Stories. x2ino f x 00 
-
-
-
-
-Catechism Explained, The. An Exhaustive Exposition of the 
-Christian Religion, with Special Reference to the Present 
-State of Society and the Spirit of the Age. A Practical 
-Manual for the use of the Preacher, the Catecbist, the Teacher, 
-and the Family. From the original of Rev. Francis Spiraoo. 
-Edited by Rev. Richard F. Clarke, S.J. 8vo, cloth, 
-720 pages, net, 2 50 
-
-Canonical Procedure in Disciplinary and Criminal Cases 
-of Clerics. By Rev. F. Droste. Edited by the Right 
-Rev. S. G. Messmer, D.D. New edition. i2mo, net, 1 50 
-Cantata Catholica. Containing a large collection of Masses, 
-etc. Hellebusch. Oblong 4to, net, 2 00 
-
-Catechism of Familiar Things. Their History and the Events 
-which led to their Discovery. Illustrated, iamo, *x 00 
-
-Catholic Belief. x6mo. 
-
-Paper, *o.25; 25 copies, 4.25; 50 copies, 7.50; xoo copies, 12 50 
-Cloth, *o.so; 25 copies, 8.50; 50 copies, 15.00; xoo copies, 25 00 
-Catholic Ceremonies and Explanation of the Ecclesiastical 
-Year. By the Abb6 Durand. With 96 illustrations. 24mo. 
-Paper, *o.2s; 25 copies, 4.25; 50 copies, 7.50; xoo copies, xa 50 
-Cloth, *o.$o; 25 copies, 8.50; 50 copies, 15.00; xoo copies, 25 00 
-Catholic Father, The. A Manual of Instructions and Devo- 
-- tions. By Bishop Egger. 640 pages, thin paper, 32010, to 75 
-Catholic Home Annual. *o 25 
-
-Catholic Home Library, xo volumes, xamo, each, o 45 
-Catholic Worship. Brennan. Paper, «o. 15; per xoo, 900 
-Cloth, *o.25; per xoo, 15 00 
-
-Catholic Teaching for Children. By Winifride Wray. 
-
-x6mo, cloth, o 40 
-
-Charity the Origin of Every Blessing. x6mo, o 75 
-
-Child of Mary. A Complete Prayer-Book for Children of 
-Mary. 32010, to 60 
-
-Child's Picture Prayer-Book. Illustrated in colors. Small 
-32mo, to 25 
-
-Child's Prayer-Book of the Sacred Heart. 32mo, $0 25 
-Christian Anthropology. By Rev. J. Thein. 8vo, net, 2 50 
-Christian Father, The. Paper, *o.25; per xoo, 12 50 
-
-Cloth, *o.35; per 100, 21 00 
-
-Christian Mother, The. Paper, *o.25; per xoo, 12 50 
-
-Cloth, *o.35; per xoo, 21 00 
-
-Christian Philosophy. A Treatise on the Christian Soul. By 
-the Rev. JOHN T. Driscoll, S.T.L. x2mo, I net, 1 25 
-
-Christ in Type and Prophecy. By Rev. A. J. Maas, S.J. 
-
-2 vols., xsmo, net, 4 00 
-
-Circus-Rider's Daughter, The. A novel. By F.v. Brackel. 
-
-iamo, x 25 
-
-College Boy, A. A Story. By Anthony Yorke. iamo, 
-cloth, o 85 
-
-Comedy of English Protestantism, The. Edited by A. F. 
-
-Marshall, B.A. Oxon. iamo, net, o 50 
-
-Compendium Sacra Liturgls Tuxta Ritum Romanum. 
-
-XEJ a r*kY> r TfAnam /~\ C T* a_-_ . 
-
-
-
-WAPELHOR8T, O.S.F. 8VO, 
-
-
-
-net, 2 50 
-
-
-
-a 
-
-
-
-
-Confessional, The. By Rt. Rev. A. Roeoel. I net, z oo 
-
-Connor D'Arcv's Struggles. A novel. By Mrs, W. M. 
-
-Bertholds. zamo, i a5 
-
-Counsels of a Catholic Mother to Her Daughter. i6mo, o 50 
-Crown of Mary, The. A Complete Manual of Devotion for 
-
-Clients of the Blessed Virgin. 3*100, $0 60 
-
-Crown of Thorns, The; or, The Little Breviary of the Holy 
-
-Pace. 32010, o 40 
-
-Data of Modern Ethics Examined, The. By Rev. John J. 
-
-Ming, S.J. zamo, net, a 00 
-
-De Goesbriand, Right Rev. L. Jesus the Good Shepherd. 
-
-x6mo, net, o 75 
-
-The Labors of the Apostles, zamo, net, z 00 
-
-Devotions and Prayers by St. Alphonsus. A Complete 
-
-Prayer-Book. z6mo, ti 00 
-
-Devotions and Prayers for the Sick-Room. By Rev. Jos. 
-
-A. Krebs, C.SS.R. zamo, cloth, net, z 00 
-
-Dion and the Sibyls. A classic novel. By Miles Gerald 
-
-Keon. zamo, z 25 
-
-Dorsey, Ella Loraine. Pickle and Pepper, xamo, o 85 
-
-The Taming of Polly, umo, o 85 
-
-Easy Language Lessons. »mo, o 50 
-
-Egan, Maurice P. The Vocation of Edward Conway. A novel. 
-
-i2mo, z 25 
-
-Flower of the Flock.and Badgers of Belmont, zamo, o 85 
-
-How They Worked Their Way. and Other Stories. © 75 
-
-The Boys in the Block. 84mo, leatherette. o 35 
-
-A Gentleman. i6mo, o 75 
-
-English Reader. By Rev. Edward Connolly, S.J. zamo, *z 25 
-Epistles and Gospels. 3amo, o 25 
-
-Eucharistic Christ, The. Reflections and Considerations on 
-
-the Blessed Sacrament. By Rev. A. TESNIERE. xamo, net, z 00 
-Eucharistic Gems. A Thought About the Most Blessed 
-
-Sacrament for Every Day. By Rev. L. C. Coelenbier. 
-
-i6mo, o 75 
-
-Examination of Conscience for the use of Priests who are 
-
-Making a Retreat. By Gaduel. 32010, net, o 30 
-
-Explanation of the Baltimore Catechism of Christian Doc- 
-trine. By Rev. THOMAS L. KlNKEAD. z2mo, net, z 00 
-Explanation of the Commandments, Illustrated. By 
-
-Rev. H. ROLFUS, D.D. With a Practice and Reflection on 
-
-each Commandment, by Very Rev. P. Girardey, C.SS.R. 
-
-z6mo, o 75 
-
-Explanation of the Gospels. Illustrated. *4mo. 
-
-Paper, *o.as; 95 copies, 4.25; 50 copies, 7.50; zoo copies, za 50 
-
-Cloth, *o.so; 25 copies, 8.50; 50 copies, 15.00; xoo copies, 35 00 
-Explanation of the Holy Sacraments, Illustrated. By 
-
-Rev. H. Rolfus, D.D. With a Reflection, Practice, and 
-
-Prayer on each Sacrament, by Very Rev. F. Girardey, 
-
-C.SS.R. z<>mo, o 75 
-
-Explanation of the Mass. By Father von Cochem. zamo, z 35 
-
-
-
-
-Explanation op the Our Father and the Hail Mart. 
-
-Adapted by Rev. Richard Brennan, LL.D. i6mo, o 75 
-Explanation of the Salve Regina. By St. Alphonsus 
-
-Liguori. x6mo, o 75 
-
-Explanation of the Prayers and Ceremonies of the 
-
-Mass. Illustrated. By Rev. D. I. Lanslots, O.S.B. With 
-
-32 full-page illustrations. 221110, x 25 
-
-Extreme Unction. Paper, *o.io; per 100, 5 00 
-
-Fabiola. Illustrated Edition. By Cardinal Wiseman. 12010, o 90 
-
-Edition de luxe, *6 00 
-
-Fabiola"s Sisters. (Companion volume to "Fabiola.") By 
-
-A. C. Clarke. Three editions in three weeks, xamo, o 90 
-Finn, Rev. Francis J., S. J. Percy Wynn. xamo, o 85 
-
-Tom Playfair. iamo, o 85 
-
-Harry Dee. xamo, o 85 
-
-Claude Lightfoot. 12m o, o 85 
-
-Ethelred Preston, xamo, o 85 
-
-That Football Game. 12m o, o 85 
-
-Mostly Boys, iamo, o 85 
-
-, My Strange Friend. 24mo, leatherette. o 25 
-
-First Communicant's Manual. Small 32mo, $0 50 
-
-Five O'clock Stories. x6mo, o 75 
-
-Flowers of the Passion. Thoughts of St. Paul of the Cross. 
-
-By Rev. LOUIS TH. DE JESUS-AGONISANT. 3amo, *o.so; 
-
-per 100, ^ 25 00 
-
-Following of Christ, The. By Thomas a Kempis. 
-
-With Reflections. Small 32010, cloth, io 50 
-
-Without Reflections. Small 32010, cloth, io 45 
-
-Edition de luxe. Illustrated. French sheep, gilt edges, tx 50 
-Four Gospels, The. 32010, net, o 10 
-
-Francis de Sales, St. Introduction to a Devout Life. 
-
-32mo, $0 50 
-Guide for Confession and Communion. Translated by 
-
-Mrs. Bennett-Gladstone. 3amo, to 60 
-
-Maxims and Counsels for Every Day. 32010, net, o 35 
-
-Game of Quotations from Catholic American Authors. 
-
-Series I., net, o 25 
-
-Series II., net, o 25 
-
-Series III., net, o 25 
-
-General Principles of the Religious Life. By Very Rev. 
-
-Boniface F. Verheyen, O.S.B. 32010, net, o 30 
-
-Glories of Divine Grace. From the Germao of Dr. M. Jos. 
-
-Scheeben, by a Benedictine Monk. x2mo, net y 1 50 
-
-Glories of Mary. By St. Alphonsus. 2 vols. 12010, net, a 50 
-God Knowable and Known. Ronayne. 12010, net, x 25 
-GROU, Rev. J., S.J. The Characteristics of True Devotion. A 
-
-new edition, by Rev. Samuel H. Frisbee, S.J. x6mo, net, o 75 
-The Ioterior of Jesus and Mary. Edited by Rev. SAMUEL 
-
-H. Frisbee, S. J. i6mo, 2 vols., net, 2 00 
-
-Goffine's Devout Instructions. Illustrated Bditioo. Preface 
-
-by His Eminence Cardinal Gibbons. 8vo, oloth, x 00 
-
-10 copies, 7.50; 25 copies, 17.30; 50 copies, 33 so 
-
-
-
-
-41 Golden Sands." Books by the Author of: 
-
-Golden Sands. Little Counsels for the Sanctincation and 
-Happiness of Daily Life. 32ino, 3 volumes, each, o 50 
-
-Book of the Professed. 32mo, 
-Vol. I. ) {net, o 75 
-
-Vol. II. > Each with a steel-plate Frontispiece. < net, o 60 
-Vol. III. ) (net, o 60 
-
-Prayer. 32010, net, o 40 
-
-The Little Book of Superiors. 32010, net, o 60 
-
-Spiritual Direction. 32010, net, o 60 
-
-Little Month of May. 32mo, flexible cloth, *o.2$; per 100, 15 00 
-
-Little Month of the Poor Souls. 32010, flexible cloth, *o.2s; 
-per 100, i5 00 
-
-Hints on Letter- Writing. x6mo, *o 60 
-
-Hand-book of the Christian Religion. By Rev. W.Wilmers, 
-
-S.J. Edited by Rev. J AMES Conway, S.J. 12010, net, 1 50 
-Happy Year, A. Short Meditations for Every Day. By Abb£ 
-
-Lasausse. j2mo, net, 1 00 
-
-Heart of St. Jane Frances de Chantal, The. Thoughts 
-
-and Prayers. 32010, net, o 40 
-
-Help for the Poor Souls in Purgatory. Small 32010, \o 50 
-Herchenbach, W. Armorer of Solingen, The. x6mo, o 45 
-
-Wrongfully Accused. i6mo, o 45 
-
-Inundation, The. i6mo, v / o 45 
-
-Hidden Treasure; or, The Value and Excellence of the Holy 
-
-Mass. By St. Leonard of Port-Maurice. 32010, o 50 
-History of the Catholic Church. By Dr. H. Brueck. 
-
-2 vols., 8vo, net, 3 00 
-
-History of the Catholic Church. Adapted by Rev. Richard 
-
-Brennan, LL.D. With 90 illustrations. 8vo, 150 
-History of the Mass and Its Ceremonies in the Eastern and 
-
-Western Church. By Re v. John O'Brien, A.M. ismo, net, 1 25 
-History of the Protestant Reformation in England and 
-
-Ireland. Written in 1824-1827. By William Cobbett. 
-
-Revised, with Notes and Preface, by Francis Aidan 
-
-Gasquet, D.D., O.S.B. iamo, cloth, net, 0.50; paper, net, o 25 
-Holy Face of Jesus, The. A Series of Meditations on the 
-
-Litany of the Holy Face. 32x110, o 40 
-
-Holy Gospels, The Four. 32010, net, o 10 
-
-Hours Before the Altar: or, Meditatioos on the Holy 
-
-Eucharist. By Mgr. de la Bouillerie. 32010, o 50 
-
-How to Comfort the Sick. Especially adapted for the 
-
-Instruction, Consolation, and Devotion of Religious Persons 
-
-devoted to the Service of the Sick. By Rev. J OS. Aloysius 
-
-Krebs, C.SS.R. i2mo, cloth. net, 1 00 
-
-How to Get On. By Rev. Bernard Feeney. 12010, x 00 
-How to Make the Mission. By a Dominican Father. x6mo, 
-
-paper, *o.xo; per xoo, 5 00 
-
-Hunolt's Sermons. Complete Unabridged Edition, Translated 
-
-from the original German edition of Cologne, X740, by the 
-
-Rev. J. Allen, D.D. 12 vols., 8vo, net, 30 00 
-
-Hunolt's Short Sermons. Abridged Edition. Arranged for 
-
-all the Sundays of the Year. 5 vols., 8vo, \net, xo 00 
-
-
-
-
-Idols; or, The Secret of the Rue Chaussee d'Antio. A novel. 
-
-By RAOUL DE N AVERY. 12010, Z 85 
-
-Illustrated Prayer-book for Children. 32010, to as 
-
-Imitation of the Blessed Virgin Mary. After the Model of 
-the Imitation of Christ. Translated by Mrs. A. R. Bennett- 
-Gladstone. Small 32010, to 50 
-
-Edition de luxe, with fine illustrations. Persian calf, gilt 
-edges. 3amo, tx 50 
-
-Imitation of the Sacred Heart. Arnoudt. x6mo, ti 25 
-
-Indulgences, Practical Guide to. By Rev. P. M. Bernad, 
-O.M.I., o 75 
-
-In Heaven We Know Our Own. Rev. Blot, S.J. x6mo, o 6b 
-
-Instructions for First Communicants. Rev. Dr. J. Schmidt. 
-Small xamo, net* o 50 
-
-Instructions on the Commandments and the Sacraments. 
-By St. LlGUORl. 32mo. Paper, 0.25; per 100, X2 50 
-
-Cloth, 0.35; per 100, 21 00 
-
-Introduction to a Devout Life. By St. Francis de Sales, 
-Small 32010, cloth, $0 50 
-
-Jack Hildreth Among the Indians. Edited by Marion Ames 
-Taggart. A series of adventure stories, 
-x. Winnetou, the Apache Knight, umo, o 85 
-
-2. The Treasure of Nugget Mountain, xamo, o 85 
-
-Keller, Rev. Dr. Joseph. The Blessed Virgin. Anecdotes and 
-Examples to Illustrate the Honor due to the Blessed Mother 
-of God. i6mo, cloth, o 75 
-
-The Sacred Heart. Anecdotes and Examples to Illustrate 
-
-the Honor and Glory due to the Most Sacred Heart of Our 
-Lord. i6mo, cloth, o 75 
-
-— The Most Holy Sacrament. Anecdotes and Examples to 
-Illustrate the Honor and Glory due to the Most Holy Sacra- 
-ment of the Altar. i6mo, cloth, o 75 
-
-St. Anthony. Anecdotes Proving the Miraculous Power of 
-
-St. Anthony of Padua. x6mo, cloth, o 75 
-
-Key of Heaven. Large Type. With Epistles and Gospels. 
-Small 32mo, o 40 
-
-Klondike Picnic, A. By Eleanor C. Donnelly. i2tno, o 85 
-
-KONINGS 1 Theologia Moralis. Novissimi Ecclesise Doctoris 
-S. Alphonsi. Editio septima, auctior, et novis curis expolitior, 
-curante Henrico Kuper, C.SS.R. Two vols, in one, half 
-morocco, net* 4 00 
-
-• Commentarium in Facultates Apostolicas. New, greatly 
-
-enlarged edition. 12010, net* 2 25 
-
-General Confession Made Easy. 32010, flexible, *o x$ 
-
-Legends and Stories of the Holy Child Jesus from Many 
-Lands. Collected by A. Fowler Lutz. x6mo, o 75 
-
-Let no Man Put Asunder. A novel. By Josephine Mari£. 
-i2mo, x 00 
-
-Life and Acts of Leo Xlll. Illustrated. 8vo, 1 50 
-
-Life of St. Aloysius Gonzaga. Richly illustrated. 8vo, net* % 50 
-
-Life of St. Aloysius Gonzaga. Edited by Rev. J. F. X. 
-O'Conor, S.J. iamo, ne t y o 75 
-
-Life of St. Anthony. See St. Anthony. 
-
-
-
-Life of the Blessed Virgin, Illustrated. Adapted by Rev. 
-Richard Brennan, LL.D. With fine half-tone illustrations, 
-xamo, z 25 
-
-Life of St. Catharine of Sienna. By Edward L. Ayme\ 
-M.D. xamo, cloth, *i 00 
-
-Life of Christ, Illustrated. By Father M. v. Cochem. 
-
-With fine half-tone illustrations. x2tno, 1 25 
-
-Life of Father Charles Sire, iamo, net % 1 00 
-
-Life of St. Clare of Montefalco. umo, net, o 75 
-
-Life of Ven. Mary Crescentia Hoss. iamo, net, 125 
-
-Life of St. Francis Solanus. x6mo, net, o 50 
-
-Life of St. Chantal. See under St Chantal, net, 4 00 
-
-Life of Most Rev. John Hughes. i2mo, net, o 75 
-
-Life of Father Jogues. wmo, net, o 75 
-
-Life of Mlle. le Gras. iamo, net, x 25 
-
-Life of Right Rev. J. N. Neumann, D.D. iamo, net, x 25 
-Life of Fr. Francis Poilvache. 32010, paper, \net, o 20 
-Life of Our Lord and Saviour Jesus Christ and of His 
-Blessed Mother. 600 illustrations. Cloth, net, 5 00 
-
-Life, Popular, of St. Teresa of Jesus, iamo, net, o 75 
-Life of Sister Anne Katharine Emmerich of the Order of 
-St. Augustine. By Rev. Thomas Wegener, O.S.A. From 
-the French by Rev. Francis X. McGowan, O.S.A. 8vo, 
-cloth, net, 1 50 
-
-Liguori, St. Alphonsus de. Complete Ascetical Works of. 
-Centenary Edition. Edited by Rev. Eugene Grimm, C.SS.R. 
-Price, per vol., net, x 25 
-
-Each book is complete in itself, and any volume will be sold 
-separately. 
-
-Preparation for Death. - True Spouse of Christ, 2 
-
-Way of Salvation and of vols. 
-Perfection. Dignity and Duties of the 
-
-Great Means of Salvation Priest, 
-and Perfection. The Holy Mass. 
-
-Incarnation, Birth, and In- The Divine Office, 
-fancy of Christ. Preaching. 
-
-The Passion and Death of Abridged Sermons for all the 
-Christ. Sundays. 
-
-The Holy Eucharist. Miscellany. 
-
-The Glories of Mary, a vols. Letters, 4 vols. 
-
-Victories of the Martyrs. Letters and General Index. 
-
-Linked Lives. A novel. By Lady Douglas. 8vo, i 50 
-
-Little Child of Mary. Large 48mo, %o 35 
-
-Little Folks' Annual. o 05 
-
-Little Manual of St. Anthony. 3amo, cloth, $0 60 
-
-Lourdes. By R. F. Clarke, SJ. x6mo, illustrated, o 75 
-
-Loyal Blue and Royal Scarlet. A Story of '76. By Marion 
-
-Ames Taggart. iamo, cloth, o 85 
-
-Manifestation of Conscience. Confessions and Communions 
-
-in Religious Communities. 3amo, net, o 50 
-
-Manual of Indulgenced Prayers. Small 3amo, %o 40 
-
-
-
-
-Manual of the Holy Eucharist. Conferences and Pious 
-Practices, with Devotions for Mass, etc. Prepared by Rev. P. 
-X. Lasance, Director of the Tabernacle Society of Cincinnati. 
-Oblong 24010, to 75 
-
-Manual of the Holy Family. Prayers and Instructions for 
-Catholic Parents. 32010, cloth, to 60 
-
-Marcella Grace. A novel. By Rosa Mulhotj-and. With 
-illustrations after original drawings, xamo, x 25 
-
-Marim Corolla. Poems by Rev. Edmund Hill, CP. 
-j 2 mo, 1 25 
-
-Marriage. By Very Rev. Pere Monsabre, O.P. Prom the 
-French, by M. HOPPER. »mo, net, x 00 
-
-May Devotions, New. Reflections on the Invocations of the 
-Litany of Loretto. xnmo, \net, 1 00 
-
-McCallen, Rev. James A., S.S. Sanctuary Boy's Illustrated 
-Manual, ismo,, net, o 50 
-
-Office of Tenebrae. xamo, \net, o 50 
-
-Means of Grace, The. A Complete Exposition of the Seven 
-Sacraments, of the Sacramentals, and of Prayer, with a 
-Comprehensive Explanation of the 44 Lord's Prayer" and the 
-" Hail Mary." By Rev. Richard Brennan, LL.D. With 180 
-full-page and other illustrations. 8vo, cloth, 2.50; gilt, 
-edges, 3.00; Library edition, half levant, 3 50 
-
-Meditations (Baxter) for Every Day in the Year. By Rev. 
-Roger Baxter, S.J. Small umo, net, x 25 
-
-Meditations (Chaionon, S.J.) for the Use of the Secular 
-Clergy. By Father Chaignon, S.J. From the French, by 
-Rt. Rev. L. DE GOESBRIAND, D.D. 2 vols., 8vo, net, 4 00 
-
-Meditations (Hamon's) for All the Days of the Year. 
-By Rev. M. Hamon, S.S. From the French, by Mrs. Anne 
-R. Bennett-Gladstone. 5 vols., x6mo, cloth, gilt top, each 
-with a Steel Engraving, net, 5 00 
-
-Meditations on the Month of Our Lady. From the Italian, 
-by Rev. J. F. MULLANEY, LL.D. Oblong x6mo, o 75 
-
-Meditations on the Last Words from the Cross. By 
-Father Charles Perraud. With an introduction by Cardinal 
-Perraud. Translated at St. Joseph's Seminary, Dunwoodie, 
-N. Y. 24mo, cloth, {net, o 50 
-
-Meditations on the Passion of Our Lord. By a Passionist 
-Father. 32mo, *o.4o; per xoo, 20 00 
-
-Meditations (Perinaldo) on the Sufferings of Jesus Christ, 
-xamo, net, o 75 
-
-Meditations (Vercruysse), for Every Day in the Year, on the 
-Life of Our Lord Jesus Christ. 2 vols., net, 2 75 
-
-Miss Erin. A novel. By M. E. Francis, xamo, 1 as 
-
-Mission Book, Boys' and Girls'. 48mo, $0 35 
-
-Mission Book of the Redemptorist Fathers. 3amo, cloth, to 50 
-
-Mission Book for the Married. By Very Rev. F. Girardey, 
-C.SS.R. 3amo, to So 
-
-Mission Book for the Single. By Very Rev. F. Girardey, 
-
-C.SS.R. 3amo, to So 
-
-Mistress of Novices, The, Instructed in Her Duties, xamo, 
-
-
-
-cloth, 
-
-
-
-net, 075 
-
-
-
-8 
-
-
-
-
-Moments Before the Tabernacle. By Rev. Matthew 
-Russell, S.J. a^mo, net, o 40 
-
-Monk's Pardon. A Historical Romance. By Raoul de 
-
-NAVERY. X2XUO, 1 25 
-
-Month op the Dead. 321110, o 50 
-
-Month of May. Debussi, S.J. 321110, o 50 
-
-Month, New, of Mary, St. Francis de Sales. 32mo, o 25 
-Month, New, of St. Joseph, St. Francis de Sales. 32mo, o 25 
-Month, New, of the Holy Angels, St. Francis de Sales. 
-
-32010, o 25 
-
-Moral Principles and Medical Practice, the Basis of 
-Medical Jurisprudence. By Rev. CHARLES Coppens. S.J., 
-Professor of Medical Jurisprudence in the John A. Creighton 
-Medical College, Omaha, Neb., author of text-books in 
-Metaphysics, Ethics, etc. 8vo, net, x 50 
-
-Mr. Billy Buttons. A novel. By Walter Lecky. nmo, x 25 
-
-Muller, Rev. Michael, C.SS.R. God the Teacher of Mankind. 
-A plain, comprehensive Explanation of Christian Doctrine. 
-q vols., crown 8vo. Per set, net, a 50 
-
-The Church and Her Enemies. net, z xo 
-
-The Apostles' Creed. net, x xo 
-
-The First and Greatest Commandment. net, x 40 
-
-Explanation of the Commandments, continued. Precepts 
-of the Church. net, x 10 
-
-Dignity, Authority, and Duties of Parents, Ecclesiastical 
-and Civil Powers, Their Enemies. net, 1 40 
-
-Grace and the Sacraments. net, x 25 
-
-Holy Mass. net, x 25 
-
-Eucharist and Penance. net, x xo 
-
-Sacramentals— Prayer, etc. net, x 00 
-
-■ Familiar Explanation of Catholic Doctrine, iatno, *x 00 
-
-The Prodigal Son; or, The Sinner's Return to God. 
-
-8vq, net, x 00 
-
-The Devotion of the Holy Rosary and the Five Scapulars. 
-
-8vo, net, o 75 
-
-The Catholic Priesthood. 2 vols., 8vo, net, 3 00 
-
-My First Communion: The Happiest Day of My Life. 
-Brennan. x6mo, illustrated, o 75 
-
-Names that Live in Catholic Hearts. By Anna T. 
-Sadlier. »mo, x 00 
-
-Natural Law and Legal Practice. Lectures delivered at 
-the Law School of Georgetown University, by Rev. R. I. 
-Holaind, S.J. 8vo, cloth, net, x 75 
-
-New Testament Studies. The Chief Events in the Life of Our 
-Lord. By Rt. Rev. Mgr. THOMAS J. CONATY, D.D. lamo, 
-cloth, illustrated, o 60 
-
-New Testament, xamo. New, large type. The best edition 
-published. Cloth, net, o 75 
-
-New Testament, The. Illustrated Edition. With 100 fine 
-full-page illustrations. Printed in two colors. x6mo, net, o 60 
-
-New Testament. 32010, flexible, net, o 15 
-
-
-
-
-Office, Complete, of Holy Week, in Latin and English. 
-34010, cloth, 0.50; cloth, gilt edges, fi 00 
-
-Also in finer bindings. 
-
-O'Grady, Eleanor. Aids to Correct and Effective Elocution, 
-xamo, *i 25 
-
-Select Recitations for Schools and Academies, iamo, *i 00 
-
-Readings and Recitations for Juniors. x6mo, net, o 50 
-
-Elocution Class. z6mo, net, o 50 
-
-One Angel More in Heaven. With Letters of Condolence by 
-St. Francis de Sales and others. White morocco, o 50 
-
-On the Road to Rome, and How Two Brothers Got There. 
-By William Richards. x6mo, o 50 
-
-Our Birthday Bouquet. Culled from the Shrines of Saints 
-and the Gardens of Poets. By E. C. DONNELLY. i6mo, 1 00 
-
-Our Boys 1 and Girls' Library. 48mo, fancy boards. 
-
-My Strange Friend. By Francis J. Finn, S.J. o 25 
-
-The Dumb Child. By Canon Schmid. o 25 
-
-The Boys in the Block. By Maurice F. Eoan. o 25 
-
-The Hop Blossoms. By Canon Schmid. o 25 
-
-The Fatal Diamonds. By E. C. Donnelly. o 25 
-
-Buzzer's Christmas. By Mary T. Waggaman. 025 
-
-Godfrey the Hermit. By Canon Schmid. o 25 
-
-The Three Little Kings. By Emmy Giehrl. o 25 
-
-The Black Lady. By Canon Schmid. o 25 
-
-Master Fridolin. By Emmy Giehrl. o 25 
-
-The Cake and the Easter Eggs. By Canon Schmid. o 25 
-
-The Lamp of the Sanctuary. Wiseman. o 25 
-
-The Rose Bush. By Canon Schmid. o 25 
-
-The Overseer of Mahlbourg. By Canon Schmid. o 25 
-
-Our Favorite Devotions. By Very Rev. Dean A. A. Lings. 
-
-241110, to 60 
-
-Our Favorite Novenas. By the Very Rev. Dean A. A. 
-Lings. 24010, to 60 
-
-Our Lady of Good Counsel in Genazzano. By Anne R. 
-Bennett, nee Gladstone. 32010, o 75 
-
-Our Monthly Devotions. By Very Rev. Dean A. A. Lings. 
-i6mo, cloth, ti 25 
-
-Our Own Will, and How to Detect It in Our Actions. By 
-Rev. John Allen, D.D. i6mo, net, o 75 
-
-Our Young Folks 1 Library. 10 volumes. i2mo. Each, o 45 
-
-Outlaw of Camargue, The. A novel. By A. de Lamothe. 
-i2mo, 1 as 
-
-Outlines of Dogmatic Theology. By Rev. Sylvester J. 
-Hunter, S.J. 3 vols., iamo, net, 4 50 
-
-Outlines of Jewish History, from Abraham to Our Lord. 
-By Rev. F.B. GlGOT, S.S. 8vo, | net, 1 50 
-
-Outlines of New Testament History. By Rev. F. E. Gigot, 
-S.S* 8vo, net, x 50 
-
-Paradise on Earth Opened to All; or, A Religious Vocation 
-the Surest Way in Life. 32mo, o 40 
-
-ZO 
-
-
-
-)y: Googk- - 
-
-
-
-Pastime Series of Juveniles. x6mo, cloth. 
-
-The Armorer of Solingen. o 45 
-
-The Canary Bird. o 45 
-
-Wrongfully Accused. o 45 
-
-The Inundation. o 45 
-
-Passing Shadows. A novel. By Anthony Yorke. wmo, 1 25 
-Passion Flowers. Poems by Father Edmund Hill, CP. 
-xamo, cloth, x 25 
-
-Pearls from Faber. Selected and arranged by Marion J. 
-Brunowe. 3amo, o 50 
-
-People's Mission Book. 32010, paper, *o.io; per xoo, 5 00 
-
-Pere Monnier's Ward. A novel. By Walter Lecky. 
-
-I2fflO, X 25 
-
-Petronilla, and Other Stories. By E. C. Donnelly, wmo, 1 00 
-
-Philosophy, English Manuals of Catholic. 
-
-Logic. By Richard F. Clarke, S.J. i2mo, net, 1 25 
-
-First Principles of Knowledge. By John Rickaby, S.J. 
-
-xamo, net, 1 25 
-
-Moral Philosophy (Ethics and Natural Law). By Joseph 
-Rickaby, S. j. wmo, net, 1 25 
-
-Natural Theology . By Bernard BoeddER, S.J. xamo, net, 1 50 
-Psychology. By Michael Maher, S.J. i2mo, net, 1 50 
-General Metaphysics. By John Rickaby, S.J. i2mo, net, 1 25 
-Manual of Political Economy. ByC. S.DEVAS. i2mo, net, 1 50 
-
-Pictorial Game of American Catholic Authors. 
-
-Series A, net, o 35 
-
-Series B, net, o 35 
-
-Pictorial Lives of the Saints. With Reflections for Every 
-Day in the Year. 50th Thousand. 8vo, 1 00 
-
-10 copies, 7.50; 25 copies, 17.50; 50 copies, 33 50 
-
-Pious Preparation for First Holy Communion. By Rev. 
-F. X. Lasance. Large 32mo, to 75 
-
-Popular Instructions on Marriage. By Very Rev. F. 
-Girardey, C.SS.R. 32mo. Paper, *o.25; per 100, 12 50 
-
-Cloth, *o.35; per 100, 21 00 
-
-Popular Instructions on Prayer. By Very Rev. F. 
-Girardey, C.SS.R. 32010. Paper, *o.25; per 100, 12.50. Cloth, 
-♦0.35; per xoo, 21 00 
-
-Popular Instructions to Parents on the Bringing Up of 
-Children. By Very Rev. F. Girardey, C.SS.R. 32010. 
-Paper, *o.25; per 100, 12 50 
-
-Cloth, *o.35; per xoo, ax 00 
-
-Practical Guide to Indulgences, A. Rev. P. M. Bernad, 
-O.M.I. (Rev. Dan'l Murray.) 24010, o 75 
-
-Prayer. The Great Means of Obtaining Salvation. Liguori. 
-32010, o 50 
-
-Prayer-Book for Lent. Meditations and Prayers for Lent. 
-32mo, cloth, to 50 
-
-Praxis Synodalis. Manuale Synodi Diocesanae ac Provincialis 
-Celebrandce. wmo, net, o 60 
-
-Priest in the Pulpit, The. A Manual of Homiletics and 
-Catechetics. Schuech-Luebbermann. 8vo t net, x 50 
-
-II 
-
-
-
-
-Reading and the Mind, with Something to Read. O'Conor, 
-S.J. ianio, I net, o 50,. 
-
-Reasonableness of Catholic Ceremonies and Practices. 
-By Rev. J. J. Burke. i2mo, flexible cloth, *o.35; per 100; 21 00 
-
-Registrum Baptismorum. 3200 registers. nzi6 Inches, net, 3 50 
-
-Registrum Matrimoniorum. 3200 registers, zz x z6 inches. 
-
-net, 3 50 
-
-Religious State, The. With a Short Treatise on Vocation 
-to the Priesthood. By St Alphonsus Liguori. 32010, o 50 
-
-Reminiscences op Rt. Rev. Edgar P. Wadhams, D.D. 6y 
-Rev. C. A. Walworth, zamo, illustrated, I net, z 00 
-
-Rights of Our Little Ones. By Rev. James Conway, S J. 
-32mo. Paper, ♦o.xs; per 100, 9.00. Cloth, "0.25; per zoo, 15 00 
-
-Romance of a Playwright. A novel. By H. de Bornier. 
-
-i2ino, x 00 
-
-Rosary, the Most Holy, in Thirty-one Meditations, Prayers, 
-
-and Examples. By Rev. Eugene Grimm, C.SS.R. 32010, o 50 
-
-Round Table, The, of the Representative French Catholic 
-Novelists, containing the best stories by the best writers. 
-With half-tone portraits, printed in colors, biographies, etc. 
-x2mo, cloth, z 50 
-
-Round Table, A, of the Representative American Catholic 
-Novelists, containing the best stories by the best writers. 
-With half-tone portraits, printed in colors, biographical 
-sketches, etc. lamo, " x 50 
-
-Round Table, A. of the Representative Irish and English 
-Catholic Novelists, containing the best stories by the Dest 
-writers. With half-tone portraits, printed in colors, bio- 
-graphical sketches, etc. 12010, z 50 
-
-Russo, N., S.J. De Philosophia Moral! Praelectiones in Collegio 
-Georgiopolitano Soc. Jes. Anno 1889-1890. Habitae, a Patre 
-Nicolao Russo. Editio altera. 8vo, half leather, net, 2 00 
-
-Sacramentals of the Holy Catholic Church, The. By 
-Rev. A. A. Lambing, LL.D. Illustrated edition. 24010. 
-Paper, 0.25; 25 copies, 4.25; 50 copies, 7.50; xoo copies, 12 50 
-Cloth, 0.50; 25 copies, 8.50; 50 copies, 15.00; xoo copies, 25 00 
-
-Sacrament of Penance, The. Lenten Sermons. Paper, 
-
-8 net, o 25 
-
-Sacristan's Guide. A Hand-book for Altar Societies and those 
-
-having charge of the Altar. x6mo, cloth, net, o 75 
-
-Sacristy Ritual. Rituale Compendiosum, sen Ordo Admi- 
-
-oistraodi qusedam Sacramenta et alia officia Ecclesiastica 
-
-Rite peragendi ex Rituale Romano novissime edito desnmptas. 
-
-x6mo, flexible, net, o 75 
-
-Sacred Rhetoric, nmo, net, o 75 
-
-Sacrifice of the Mass Worthily Celebrated, The. By 
-
-the Rev. Father Chaignon, S.J. Traoslated by Rt. Rev. L. 
-
-de Goesbriand, D.D. 8vo, net, 1 50 
-
-St. Anthony, the Saint of the Whole World. Illustrated by Pen 
-
-and Pencil. Compiled from the best sources by Rev. THOS. 
-
-F.WARD. Illustrated. Square iamo, cloth, 075 
-
-12 
-
-
-
-
-Sacred Heart, Books on The. 
-
-Child's Prayer-Book of the Sacred Heart. 321110, o as 
-
-«. Devotions to the Sacred Heart for the First Friday. 321110, o 4? 
-
-Imitation of the Sacred Heart of Jesus. By Rev. F. 
-▲rnoudt. S.J. From the Latin by Rev. J. M. Fastre, S. J. 
-i6mo, cloth, ti 25 
-
-Little Prayer-Book of the Sacred Heart. Small 32mo, to 4© 
-
-Month of the Sacred Heart of Jesus. Huouet. 32mo, o 50 
-
-Month of the Sacred Heart for the Young Christian. By 
-Brother Philippe. 32mo, o 50 
-
-New Month of the Sacred Heart. St. Francis de Sales. 
-32mo, o 25 
-
-One and Thirty Days with Blessed Margaret Mary. 32mo, 
-♦0.25: per 100, 15 00 
-
-Pearls from the Casket of the Sacred Heart of Jesus. 32010, o 50 
-
-Revelations of the Sacred Heart to Blessed Margaret Mary; 
-and the History of Her Life. Bougaud. 8vo, net, 1 50 
-
-Sacred Heart Studied in the Sacred Scriptures. By Rev. H. 
-Saintrain. C.SS.R. 8vo, net, 2 00 
-
-Six Sermons on Devotion to the Sacred Heart of Jesus. 
-BlERBAUM. x6mo, net, o 60 
-
-Year of the Sacred Heart. Drawn from the works of Pere 
-de la Colombiere, of Margaret Mary, and of others. 
-32mo, o 50 
-
-St. Chantal and the Foundation of the Visitation. By 
-
-Monseigneur Bougaud. 2 vols., 8vo, net, 4 00 
-
-St. Joseph Our Advocate. From the French of Rev. Father 
-
-Huguet. 24010, o 75 
-
-Schmid, Canon. Canary Bird, The. x6mo, o 45 
-
-Black Lady, The, and Robin Redbreast. 24010, o 25 
-
-Rose Bush, The. 24010, o 25 
-
-«. Overseer of Mahlbourg, The. 24010, o 25 
-
-Hop Blossoms, The. 24010, o 25 
-
-. Godfrey the Hermit. 24010, o 25 
-
-Cake, The, and the Easter Eggs. 24010, o 25 
-
-Secret of Sanctity, The. According to St. Francis de 
-
-Sales and Father Crasset, S.J. 12010, net, 1 00 
-
-Seraphic Guide. A Manual for the Members of the Third 
-
-Order of St. Francis. Cloth, to 60 
-
-Roan, red edges. +0 7s 
-
-The same in German at the same prices. 
-Sermons. See also " Hunolt," 11 Sacrament of Penance," " Seven 
-
-Last Words," and "Two-Edged Sword." 
-Sermons for the Children of Mary. From the Italian of 
-
-Rev. F. Callerio. Revised by Rev. R. F. Clarke, SJ. 
-
-8vo, cloth, net, x 50 
-
-Sermons, Funeral. 2 vols., I net, 2 00 
-
-Sermons, Lenten. Large 8vo, 8 ne t, 3 00 
-
-Sermons, Old and New. 8 vols., 8vo, | net, 16 00 
-
-Sermons on Our Lord, the Blessed Virgin, and the 
-
-Saints. By Rev. F. Hunolt, S.J. Translated by Rev. J. 
-
-Allen, D.D. 3 vols., 8vo, net, 5 00 
-
-Sermons on Penance. By Rev. F, Hunolt, S.J. Translated 
-
-by Rev. J. Allen, D.D. 2 vols., 8vo, net, 5 00 
-
-Sermons on the Blessed Virgin. By Very Rev. D. I. 
-
-McDermott. z6mo, net, o 75 
-
-13 
-
-
-
-
-Sermons on the Christian Virtues. By Rev. F. Hunolt, 
-S.J. Translated by Re v.-J. Allen, D.D. svols.,8vo, net, 5 00 
-Sermons on the Different States of Life. By Rev. P. 
-Hunolt, S.J. Translated by Rev. J. Allen, D.D. a vols., 
-8vo, net, 5 00 
-
-Sermons on the Four Last Things. By Rev. F. Hunolt, 
-S.J. Translated by Rev. J. Allen, D.D. a vols., 8vo, net, 5 00 
-Sermons on the Seven Deadly Sins. By Rev. F. Hunolt, 
-S.J. Translated by Rev. J. ALLEN, D.D. avols.,8vo, net, 500 
-Sermons, abridged,.for all the Sundays and Holydays. By St. 
-
-Alphonsus Liguori. nmo, net, 1 35 
-
-SERMONS for the Sundays and Chief Festivals of the Ecclesiastical 
-Year. With Two Courses of Lenten Sermons and a Triduum 
-for the Forty Hours. By Rev. Julius Pottgeisser, S.J. 
-From the German by Rev. James Conway, S.J. a vols., 
-8vo, net, a 50 
-
-Sermons on the Most Holy Rosary. By Rev. M. J. Frings. 
-
-iamo, net, x 00 
-
-Sermons, Short, for Low Masses. By Rev. F. X. Schouppe, 
-S.J. xamo, net, 1 35 
-
-Sermons, Six, on the Sacred Heart of Jesus. Bierbaum. 
-
-
-
-Short Conferences on the Little Office of the Immacu- 
-late Conception. By Very Rev. Joseph Rainer. With 
-Prayers. 3amo, o 50 
-
-Short Stories on. Christian Doctrine: A Collection of 
-Examples Illustrating the Catechism. From the French by 
-Mary McMahon. xamo, illustrated, net, o 75 
-
-Smith, Rev. S. B., D.D. Elements of Ecclesiastical Law. 
-
-Vol. I. Ecclesiastical Persons. 8vo, net, a 50 
-
-Vol. U. Ecclesiastical Trials. 8vo, net, a 50 
-
-Vol. III. Ecclesiastical Punishments. 8vo, net, a 50 
-
-Compendium Juris Canonici, ad Usum Cleri et Semina- 
-
-riorum nujus regionis accommodatum. 8vo, net, a 00 
-
-The Marriage Process in the United States. 8vo, net, a 50 
-
-Sodalists* Vade Mecum. A Manual, Prayer-Book, and 
-Hymnal. 3amo, cloth, %o 50 
-
-Songs and Sonnets, and Other Poems. By Maurice F. Egan. 
-
-xamo, cloth, x 00 
-
-Souvenir of the Novitiate. From the French by Rev. 
-
-Edward I. Taylor. 3amo, net, o 60 
-
-Spiritual Crumbs for Hungry Little Souls. To which are 
-added Stories from the Bible. Richardson. x6mo, o 50 
-Spiritual Exercises for a Ten Days' Retreat. By Very Rev. 
-
-R. v. Smetana, C.SS.R., net, x 00 
-
-Stang, Rev. William, D.D. Pastoral Theology. New enlarged 
-edition. 8vo, net, x 50 
-
-Eve of the Reformation, xamo, paper, | net, o 35 
-
-Historiographia Ecclesiastica quam Historiae seriam Soli- 
-
-damque Operam Navantibus, Accommodavit Guil. Stang, 
-D.D. xamo, B net, 1 00 
-
-^ Business Guide for Priests. 8vo, cloth, net, o 85 
-
-Stories for First Communicants, for the time before and 
-after First Communion. By Rev. J. A. Keller, D.D. 
-3amo, o 50 
-
-
-
-i6mo, 
-
-
-
-net, o 60 
-
-
-
-
-y Google 
-
-
-
-dbyGOQgl 
-
-
-
-u.y.uzeu ^w^iv 
-
-
-
+PRINTED BY BENZIGER BROTHERS, NEW YORK. 
