@@ -49,13 +49,13 @@ Nihil Obstat.
 
 REMY LAFORT, 
 
-Censor Librorum. 
+_Censor Librorum_. 
 
 Imprimatur: 
 
-+ MICHAEL AUGUSTINE, 
++[addmaltesecross]MICHAEL AUGUSTINE, 
 
-Archbishop of New York. 
+_Archbishop of New York_. 
 
 NEW YORK, January 16, 1900. 
 
@@ -73,7 +73,7 @@ it is taken from the works of our blessed
 Father, and especially from several memoirs
 written by his dear and holy hand. 
 These are his thoughts and words; you will 
-readily recognize in them his spirit We 
+readily recognize in them his spirit. We 
 have endeavored to abridge and arrange 
 them into Meditations that may serve for 
 the retreats made before the renovation of 
@@ -155,8 +155,8 @@ thus tightened the pegs of our spiritual
 lute, we begin again to sing the canticle of 
 divine love, which consists in strict observance. 
 In imitation of our glorious Mistress
-and under her protection, we offer our- 
-selves on the altar of divine Goodness, to 
+and under her protection, we offer ourselves 
+on the altar of divine Goodness, to 
 be wholly consumed in the fire of His 
 burning love. 
 
@@ -189,18 +189,17 @@ with your guardian angel and the saints,
 by often visiting and remembering them. 
 
 May God bestow upon you this grace! 
-Amen. 
+_Amen_. 
 
-First Convent of the Visitation of Holy Mary, 
+_First Convent of the Visitation of Holy Mary_, 
 ANNECY, August 15, 1637, commenced under 
 the auspices of the glorious Mother of God. 
 
-God be praised! 
+_God be praised!_ 
 
 
 
-
-Contents 
+Contents. 
 
 Mother de Chantal to the Sisters of the Visitation. 3 
 
@@ -265,7 +264,7 @@ XXII. Meditation on Our Saviour on the
 Cross. 116 
 
 XXIII. Meditation on the First five Words that 
-Our Saviour spoke on the Cross 121 
+Our Saviour spoke on the Cross. 121 
 
 XXIV. Meditation on the Blessed Virgin standing 
 at the Foot of the Cross. 126 
@@ -286,7 +285,7 @@ Lord. 146
 XXIX. Meditation on the Descent of the Holy 
 Ghost. 151 
 
-XXX Meditation on the Presence of God. 156 
+XXX. Meditation on the Presence of God. 156 
 
 XXXI. Meditation on the Providence of God. 160 
 
@@ -304,12 +303,11 @@ Examen for Annual Confessions. 179
 Meditations for Retreats. 
 
 
-
 FIRST MEDITATION. 
 
 THE CREATION. 
 
-I. Point. 
+_I. Point._ 
 
 Whence have we come? The country 
 we have left is nothingness. Where were 
